@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="SDM_UI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SDM_UI_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SDM_UI.jar">
+        <element id="module-output" name="SDMUI" />
+        <element id="module-output" name="SDMLogic" />
+        <element id="module-output" name="Exceptions" />
+      </element>
+    </root>
+  </artifact>
+</component>
